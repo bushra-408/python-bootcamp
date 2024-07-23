@@ -1,0 +1,5 @@
+1.print upper triangular matrix
+2.print lower triangular matrix
+3.print parallelogram
+4.print r0mbus
+5.print number pattern
